@@ -1,0 +1,56 @@
+body {
+    background-image: url("laura.jpg");
+    margin: 0;
+    padding: 0;
+    height: 90%;
+ 
+}
+
+h1 {
+    text-align: center;
+    color : rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+p {
+    font-size: 100px;
+    border: none;
+    margin: 10px;
+}
+
+.p1 {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 150px;
+    margin-top: -50px;
+
+}
+
+.p2 {
+    font-size: 120px;
+    border : 10px;
+    margin-bottom: none;
+    margin-top: -50px;
+   
+    
+}
+
+.luminescente {
+  color: #000000; /* Cor do texto */
+  text-shadow: 0 0 15px #ffffff, 0 0 20px #1070ff, 0 0 30px #000000; /* Efeito luminescente */
+}
+
+
+.p3 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    margin-bottom: 100px;
+    border: 120px;
+
+}
+
+@media (max-width: 768px) {
+  /* Estilos para telas menores que 768px */
+}
+
